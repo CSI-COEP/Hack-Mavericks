@@ -14,3 +14,4 @@ on a text file in which the data is gathered from the Ministry of External Affai
 2) Front-End Development:
 We have used HTML5, CSS3 and Javascript to create a basic ChatBot UI.
 3) Backend Development : 
+Flask framework is used for the backend part of the chatbot and is connected to the Frontend part.
