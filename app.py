@@ -13,5 +13,13 @@ def get_bot_response():
     bot_response = str(chatbot.get_response(user_text))
     return bot_response
 
+# Code for getting the bot response
+@app.route("/api/chat", methods=["POST"])
+def get_bot_response():
+    data = request.get_json()
+    user_text = data["message"]
+    bot_response = str(chatbot.get_response(user_text))
+    return jsonify({"response": bot_response})
+
 if __name__ == "__main__":
     app.run()
