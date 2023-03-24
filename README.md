@@ -13,5 +13,4 @@ We have built a very basic NLP chatbot using NLTK which can answer basic queries
 on a text file in which the data is gathered from the Ministry of External Affairs(MEA) website.
 2) Front-End Development:
 We have used HTML5, CSS3 and Javascript to create a basic ChatBot UI.
-4) REST API :
-5) Backend Development : 
+3) Backend Development : 
