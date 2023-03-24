@@ -5,6 +5,9 @@ In short, our chatbot provides a convenient and efficient way for users to obtai
 User Interface(UI) for our chatbot:
 ![image](https://user-images.githubusercontent.com/83204279/227517758-30bc61e1-5689-43f6-bd89-f708459db77c.png)
 
+![Screenshot (104)](https://user-images.githubusercontent.com/83204279/227518255-a5e8de3f-1754-4cbb-931e-58c5a99b1506.png)
+
+
 Tech Stack:
 1) Machine Learning:
 We have built a very basic NLP chatbot using NLTK which can answer basic queries related to Visa requiremnnts, types and processes. The chatbot is trained 
