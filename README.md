@@ -3,7 +3,8 @@ to understand user queries and provide relevant information on visa types, requi
 In short, our chatbot provides a convenient and efficient way for users to obtain visa-related information and guidance.
 
 User Interface(UI) for our chatbot: <br><br>
-![Screenshot (105)](https://user-images.githubusercontent.com/83204279/227519703-fdc6f6c0-bbb8-41ac-ad12-1c2b8403c985.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/83204279/227520318-67ecd0ac-4a12-4db7-968f-8210c1f8abda.png)
+
 
 
 Tech Stack:
