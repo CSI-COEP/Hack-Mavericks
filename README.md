@@ -2,6 +2,9 @@ Our chatbot is designed to assist users with their visa-related questions and co
 to understand user queries and provide relevant information on visa types, requirements, and processes.
 In short, our chatbot provides a convenient and efficient way for users to obtain visa-related information and guidance.
 
+User Interface(UI) for our chatbot:
+![image](https://user-images.githubusercontent.com/83204279/227517758-30bc61e1-5689-43f6-bd89-f708459db77c.png)
+
 Tech Stack:
 1) Machine Learning:
 We have built a very basic NLP chatbot using NLTK which can answer basic queries related to Visa requiremnnts, types and processes. The chatbot is trained 
