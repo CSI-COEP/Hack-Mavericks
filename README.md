@@ -20,5 +20,6 @@ We have used HTML5, CSS3 and Javascript to create a basic ChatBot UI.
 Flask framework is used for the backend part of the chatbot and is connected to the Frontend part.
 
 <b>Highlights:</b><br>
+![Screenshot (113)](https://user-images.githubusercontent.com/83204279/228348852-bb10e7e3-ad95-4833-a00d-fe223c5a7362.png)
 
 
