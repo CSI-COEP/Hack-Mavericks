@@ -21,7 +21,7 @@ Flask framework is used for the backend part of the chatbot and is connected to 
 
 <b>Highlights:</b><br><br>
 Our team Hack Mavericks, was shortlisted for the final round which consisted of Top 22 teams out of 500+ participants who participated at Inspiron 2.0. <br><br>
-![Screenshot (113)](https://user-images.githubusercontent.com/83204279/228348852-bb10e7e3-ad95-4833-a00d-fe223c5a7362.png)<br>
+![Screenshot (113)](https://user-images.githubusercontent.com/83204279/228348852-bb10e7e3-ad95-4833-a00d-fe223c5a7362.png)<br><br>
 ![Screenshot (117)](https://user-images.githubusercontent.com/83204279/228608031-bd9b6ccc-e309-4334-bbe2-76953511746b.png)
 
 
