@@ -2,7 +2,7 @@ Our chatbot (Nancy) is designed to assist users with their visa-related question
 to understand user queries and provide relevant information on visa types, requirements, and processes.
 In short, our chatbot provides a convenient and efficient way for users to obtain visa-related information and guidance.
 
-User Interface(UI) for our chatbot: <br><br>
+User Interface (UI) for our chatbot: <br><br>
 ![Screenshot (106)](https://user-images.githubusercontent.com/83204279/227520318-67ecd0ac-4a12-4db7-968f-8210c1f8abda.png)
 
 
