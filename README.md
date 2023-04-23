@@ -8,6 +8,7 @@ User Interface (UI) for our chatbot : <br><br>
 
 
 Tech Stack:
+
 1) Machine Learning:
 We have built a very basic NLP chatbot using NLTK which can answer basic queries related to Visa requiremnnts, types and processes. The chatbot is trained 
 on a text file in which the data is gathered from the Ministry of External Affairs(MEA) website.
